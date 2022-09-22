@@ -1,6 +1,6 @@
 # TODO List Challenge (Elixir/Phoenix LiveView)
 
-After a couple hours without sleep (72 hours of work)... Here it is. The TODO List Challenge!
+After a couple hours without sleep... Here it is. The TODO List Challenge!
 So, today i gonna show you the result of my hard work doing this amazing challenge. Basically, the challenge is: 
 "You need to create a TODO list using Phoenix LiveView that solve the challenge FrontEnd Mentor".
 
