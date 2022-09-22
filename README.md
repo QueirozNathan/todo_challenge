@@ -3,6 +3,15 @@
 After a couple hours without sleep... Here it is. The TODO List Challenge!
 So, today i gonna show you the result of my hard work doing this amazing challenge. Basically, the challenge is: 
 "You need to create a TODO list using Phoenix LiveView that solve the challenge FrontEnd Mentor".
+For this challenge i used:
+<ul>
+<li><b> Phoenix LiveView</b></li>
+<li><b> Elixir</b></li>
+<li><b> Javascript</b></li>
+<li><b> SortableJS</b></li>
+<li><b> CSS</b></li>
+<li><b> PostgreSQL</b></li>
+</ul>
 
 And that's what i did:
 
