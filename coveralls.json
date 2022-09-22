@@ -1,0 +1,10 @@
+{
+  "skip_files": [
+    "test/",
+    "lib/todo_app/application.ex",
+    "lib/todo_app_web.ex",
+    "lib/todo_app_web/views/error_helpers.ex",
+    "lib/todo_app_web/telemetry.ex",
+    "lib/todo_app_web/channels/user_socket.ex"
+  ]
+}
